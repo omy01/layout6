@@ -1,0 +1,65 @@
+.header{
+	border: 2px solid gray;
+	min-height: 100px;
+	background-color: gray;
+	margin-bottom: 5px;
+}
+
+.navigation{
+	border: 1px solid black;
+	min-height: 80px;
+	width: 40%;
+	margin: 8px;
+	float: right;
+
+}
+
+.logo{
+	border: 1px solid black;
+	min-height: 80px;
+	width: 20%;
+	margin: 8px;
+}
+
+.boxes{
+	/*border: 2px solid white;*/
+	/*min-height: 1000px;*/
+	overflow: hidden;
+	margin-bottom: 5px;
+
+
+}
+
+.box{
+	/*border: 2px solid white;*/
+	min-height: 200px;
+	width: 20%;
+	background-color: gray;
+	float: left;
+	margin: 5px 33px;
+}
+
+.boxes2{
+	/*border: 2px solid black;*/
+	/*min-height: 500px;*/
+	overflow: hidden;
+	margin-bottom: 5px;
+
+}
+
+.box2{
+	/*border: 2px solid gray;*/
+	min-height: 250px;
+	width: 30%;
+	background-color: gray;
+	float: left;
+	margin: 5px 21px;
+}
+
+.footer{
+	/*border: 2px solid black;*/
+	min-height: 100px;
+	background-color: gray
+}
+
+
